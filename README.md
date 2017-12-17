@@ -3,7 +3,7 @@ Small chat project for learning NodeJS, Socket.io and MongoDB
 
 This project was made to run in Cloud9 (https://c9.io).
 
-## Installation
+## Installation (in cloud9)
 
 * Create an new **Blank Ubuntu** workspace.
 
