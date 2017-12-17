@@ -36,3 +36,11 @@ Run the script files `node_start.sh` and `mongo_start.sh` from the workspace roo
 
 Head to the url provided by the node server script to open the chat.
 
+# References
+
+* https://www.youtube.com/watch?v=tHbCkikFfDE
+* https://www.youtube.com/watch?v=8Y6mWhcdSUM
+* https://www.youtube.com/watch?v=hrRue5Rt6Is
+* http://mongodb.github.io/node-mongodb-native/driver-articles/mongoclient.html#mongoclient-connect
+* https://stackoverflow.com/questions/10656574/how-do-i-manage-mongodb-connections-in-a-node-js-web-application
+* http://mongodb.github.io/node-mongodb-native/3.0/quick-start/quick-start/
